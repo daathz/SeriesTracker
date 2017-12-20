@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingBottom="8dip"
+    android:paddingLeft="16dip"
+    android:paddingRight="16dip"
+    android:paddingTop="8dip">
+
+    <LinearLayout
+        android:layout_width="0dip"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dip"
+        android:layout_weight="1"
+        android:gravity="start"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/SeriesRecordTitleTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            tools:text="Drifters" />
+
+        <TextView
+            android:id="@+id/SeriesRecordEpisodeTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="01x10" />
+
+        <TextView
+            android:id="@+id/SeriesRecordStateTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="Watching" />
+
+        <TextView
+            android:id="@+id/SeriesRecordScoreTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="9" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0dip"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dip"
+        android:layout_weight="0.26"
+        android:gravity="right"
+        android:orientation="vertical">
+
+        <ImageButton
+            android:id="@+id/SeriesRecordIncreaseButton"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center_vertical"
+            android:scaleType="fitXY"
+            android:src="@drawable/ic_pencil_grey600_48dp" />
+
+        <ImageButton
+            android:id="@+id/SeriesRecordDecreaseButton"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center_vertical"
+            android:scaleType="fitXY"
+            android:src="@drawable/ic_pencil_grey600_48dp_c" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0dip"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dip"
+        android:layout_weight="0.26"
+        android:gravity="right"
+        android:orientation="vertical">
+
+        <ImageButton
+            android:id="@+id/SeriesRecordScoreButton"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center_vertical"
+            android:scaleType="fitXY"
+            android:src="@drawable/ic_s" />
+
+        <ImageButton
+            android:id="@+id/SeriesRecordRemoveButton"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center_vertical"
+            android:scaleType="fitXY"
+            android:src="@drawable/ic_delete_grey600_48dp" />
+    </LinearLayout>
+</LinearLayout>

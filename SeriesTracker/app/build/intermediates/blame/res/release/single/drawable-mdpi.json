@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Viktor\\AndroidStudioProjects\\SeriesTracker\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_pencil_grey600_48dp_c.png",
+        "source": "C:\\Users\\Viktor\\AndroidStudioProjects\\SeriesTracker\\app\\src\\main\\res\\drawable-mdpi\\ic_pencil_grey600_48dp_c.png"
+    },
+    {
+        "merged": "C:\\Users\\Viktor\\AndroidStudioProjects\\SeriesTracker\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_add_white_36dp.png",
+        "source": "C:\\Users\\Viktor\\AndroidStudioProjects\\SeriesTracker\\app\\src\\main\\res\\drawable-mdpi\\ic_add_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Viktor\\AndroidStudioProjects\\SeriesTracker\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_delete_grey600_48dp.png",
+        "source": "C:\\Users\\Viktor\\AndroidStudioProjects\\SeriesTracker\\app\\src\\main\\res\\drawable-mdpi\\ic_delete_grey600_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Viktor\\AndroidStudioProjects\\SeriesTracker\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_pencil_grey600_48dp.png",
+        "source": "C:\\Users\\Viktor\\AndroidStudioProjects\\SeriesTracker\\app\\src\\main\\res\\drawable-mdpi\\ic_pencil_grey600_48dp.png"
+    }
+]

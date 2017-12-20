@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Series Tracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="watching">Watching</string>
+    <string name="new_series_record">New Series Record</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="title">Title: </string>
+    <string name="season">Season: </string>
+    <string name="state">State: </string>
+    <string name="episode">Episode: </string>
+    <string name="score">Score: </string>
+    <string name="already_watched">Already watched</string>
+    <string name="remove_all">Remove All</string>
+    <string name="about">About</string>
+    <string name="about_description">
+        Ez az app a Mobil és Webes Szoftverek tárgyhoz készült.
+    </string>
+    <string-array name="state_items">
+        <item>Watching</item>
+        <item>Completed</item>
+        <item>On Hold</item>
+        <item>Plan to Watch</item>
+    </string-array>
+</resources>

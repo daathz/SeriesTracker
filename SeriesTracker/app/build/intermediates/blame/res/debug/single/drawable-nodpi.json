@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Viktor\\AndroidStudioProjects\\SeriesTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\open_book.png",
+        "source": "C:\\Users\\Viktor\\AndroidStudioProjects\\SeriesTracker\\app\\src\\main\\res\\drawable-nodpi\\open_book.png"
+    },
+    {
+        "merged": "C:\\Users\\Viktor\\AndroidStudioProjects\\SeriesTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\groceries.png",
+        "source": "C:\\Users\\Viktor\\AndroidStudioProjects\\SeriesTracker\\app\\src\\main\\res\\drawable-nodpi\\groceries.png"
+    },
+    {
+        "merged": "C:\\Users\\Viktor\\AndroidStudioProjects\\SeriesTracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\lightning.png",
+        "source": "C:\\Users\\Viktor\\AndroidStudioProjects\\SeriesTracker\\app\\src\\main\\res\\drawable-nodpi\\lightning.png"
+    }
+]

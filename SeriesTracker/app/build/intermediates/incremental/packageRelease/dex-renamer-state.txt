@@ -1,0 +1,4 @@
+#Fri Dec 16 04:05:48 CET 2016
+base.0=C\:\\Users\\Viktor\\AndroidStudioProjects\\SeriesTracker\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Viktor\\AndroidStudioProjects\\SeriesTracker\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex
